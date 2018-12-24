@@ -1,4 +1,4 @@
-# macOS - Setup for Web Development
+# My macOS Setup for Development
 ### Install xcode
 ```
 xcode-select --install
@@ -89,6 +89,7 @@ nano .bash_profile
 ```
 
 ---
+
 ### Albert3 configuration
 **Turn off Spotlight**
 *System Preference > Keyboard > Shortcut*
@@ -141,6 +142,22 @@ nvm install stable
 ```
 npm install -g lite-server eslint
 ```
+---
+
+### Visual Studio Code configuration
+
+**Extensions and UserSettings Instalation**
+https://github.com/toyamarodrigo/vscode-settings
+
+#### Extensions
+
+https://github.com/toyamarodrigo/vscode-settings/blob/master/Extensions.md
+
+#### UserSettings.json
+
+https://github.com/toyamarodrigo/vscode-settings/blob/master/UserSettings.json
+
+
 ---
 #### Java Development
 
