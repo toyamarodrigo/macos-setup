@@ -26,6 +26,9 @@ brew "postgres"
 brew "mongodb"
 brew "vcprompt"
 cask "alfred"
+cask "postman"
+cask "firefox"
+cask "cleanmymac"
 cask "bartender"
 cask "dropbox"
 cask "endurance"
@@ -177,19 +180,6 @@ sudo mv jdk-11.jdk /Library/Java/JavaVirtualMachines/openjdk-11.jdk
 http://www.jenv.be/
 
 > *jEnv is a command line tool to help you forget how to set the JAVA_HOME environment variable*
-
-#### Netbeans 9
-[Netbeans for macOS](https://github.com/carljmosca/netbeans-macos-bundle
-)
-
-```
-git clone https://github.com/carljmosca/netbeans-macos-bundle
-```
-```
-cd netbeans-mac-bundle
-
-./install.sh
-```
 
 ---
 
