@@ -26,16 +26,16 @@ brew "postgres"
 brew "mongodb"
 brew "vcprompt"
 cask "alfred"
+cask "postman"
+cask "firefox"
+cask "cleanmymac"
 cask "bartender"
 cask "dropbox"
 cask "endurance"
-cask "flux"
 cask "franz"
-cask "google-backup-and-sync"
 cask "hyperswitch"
 cask "iterm2"
 cask "libreoffice"
-cask "mysqlworkbench"
 cask "spectacle"
 cask “vlc”
 cask “visual-studio-code"
@@ -157,41 +157,6 @@ https://github.com/toyamarodrigo/vscode-settings/blob/master/Extensions.md
 
 https://github.com/toyamarodrigo/vscode-settings/blob/master/UserSettings.json
 
-
----
-#### Java Development
-
-[Java JDK11 web](https://jdk.java.net/11/)
-
-[Download openjdk-11.tar.gz](https://download.java.net/java/GA/jdk11/13/GPL/openjdk-11.0.1_osx-x64_bin.tar.gz))
-
-```
-tar zxvf openjdk-11.0.1_osx-x64.bin.tar.gz
-```
-
-```
-sudo mv jdk-11.jdk /Library/Java/JavaVirtualMachines/openjdk-11.jdk
-```
-
-**jEnv**
-http://www.jenv.be/
-
-> *jEnv is a command line tool to help you forget how to set the JAVA_HOME environment variable*
-
-#### Netbeans 9
-[Netbeans for macOS](https://github.com/carljmosca/netbeans-macos-bundle
-)
-
-```
-git clone https://github.com/carljmosca/netbeans-macos-bundle
-```
-```
-cd netbeans-mac-bundle
-
-./install.sh
-```
-
----
 
 **Thanks [w3cj](https://github.com/w3cj)**
 
